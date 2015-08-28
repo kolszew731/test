@@ -7,6 +7,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		System.out.println("Ala ma kota ... ..." + X); 
 		System.exit(0);   
+		//
 	}
 
 }
