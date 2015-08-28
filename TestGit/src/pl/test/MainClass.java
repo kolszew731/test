@@ -6,8 +6,6 @@ public class MainClass {
 		System.out.println("aaaaa bbb");
 		System.out.println("aaaaa bbb");
 		System.out.println("aaaaa bbb");
-		System.out.println("aaaaa bbb");
-		System.out.println("aaaaa bbb");
 	}
 
 }
